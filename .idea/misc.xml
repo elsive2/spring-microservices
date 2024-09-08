@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/currency-exchange-service/pom.xml" />
         <option value="$PROJECT_DIR$/currency-conversion-sevice/pom.xml" />
         <option value="$PROJECT_DIR$/currency-conversion-service/pom.xml" />
+        <option value="$PROJECT_DIR$/service-registry/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
